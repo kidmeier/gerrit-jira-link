@@ -35,6 +35,7 @@
   }],
 
   "background": {
-    "service_worker": "lib/background.js"
+    "service_worker": "lib/background.js",
+    "scripts": ["lib/background.js"]
   }
 }
